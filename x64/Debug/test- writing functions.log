@@ -1,0 +1,5 @@
+﻿  exc4.c
+C:\Users\97252\source\repos\test- writing functions\test- writing functions\exc4.c(22,3): warning C4033: 'lotteryHistory' must return a value
+C:\Users\97252\source\repos\test- writing functions\test- writing functions\exc4.c(60): warning C4715: 'searchLottery': not all control paths return a value
+C:\Users\97252\source\repos\test- writing functions\test- writing functions\exc4.c(49): warning C4716: 'lotteryHistory': must return a value
+  test- writing functions.vcxproj -> C:\Users\97252\source\repos\test- writing functions\x64\Debug\test- writing functions.exe
